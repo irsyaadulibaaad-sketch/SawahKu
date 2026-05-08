@@ -1,2 +1,2 @@
-# SawahKu
-Aplikasi database penggarap sawah
+# SawahKu-APK
+Aplikasi database penggarap sawah dan bagi hasil
